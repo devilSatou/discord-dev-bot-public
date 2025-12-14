@@ -1,0 +1,7 @@
+{
+  "discord_token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "command_prefix": "!dev ",
+  "project_dir": "C:\\Users\\YourName\\your-project",
+  "auto_reconnect": true,
+  "startup_delay": 30
+}
